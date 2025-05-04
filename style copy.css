@@ -1,0 +1,35 @@
+* {
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+body {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    --slide-count: 4;
+}
+div {
+    width: calc(var(--slidecount) * 100%);
+    .container {
+        scroll-snap-type: mandatory;
+        scroll-snap-points-y: repeat(100%);
+        scroll-snap-type: y mandatory;
+    }
+    & img {
+        display: inline-block;
+        scroll-snap-align: start;
+        width: 100%;
+    }
+}
+#slideviewer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#slideviewer img {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
