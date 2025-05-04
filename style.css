@@ -2,10 +2,16 @@
     margin: 0;padding: 0;box-sizing: border-box;
 }
 
-body {
+/* body {
     overflow: hidden;
+} */
+div {
+    width: 100%;
+    & img {
+        display: block;
+        width: 100%;
+    }
 }
-
 #slideviewer {
     position: absolute;
     width: 100%;
