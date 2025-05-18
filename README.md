@@ -25,10 +25,14 @@ We're making horizontal-scrolling-snapping slideshows, using a list of images. O
     </div>
 ...
 ```
+
 Note that you shouldn't change the `div` tag, or anything other than the `img` tags. Pay attention to the file extension, is it `triceratops.png` or `triceratops.jpeg`?
+
 7. While logged in as `exhibitops@pacsci.org`, click the `Add file` dropdown and click `Upload files`. Drag and drop the folder you created into this window, and click the green `Commit changes` button.
+
 8. In a few minutes, you can find your webpage at `https://pacsciexhibits.github.io/ipadcontent/exampleslideshow` where you can replace the last string, `exampleslideshow`, with your folder's name.'
-9. That URL can go in the URL field on the iPad kiosk app of your choosing.
+
+9.  That URL can go in the URL field on the iPad kiosk app of your choosing.
 
 Reach out to me with any questions:
 Oliver Norred
