@@ -34,6 +34,6 @@ Note that you shouldn't change the `div` tag, or anything other than the `img` t
 
 9.  That URL can go in the URL field on the iPad kiosk app of your choosing.
 
-Reach out to me with any questions:
-Oliver Norred
+Reach out to me with any questions:\
+Oliver Norred\
 olivernorred@gmail.com
