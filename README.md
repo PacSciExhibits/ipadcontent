@@ -19,8 +19,10 @@ We're making horizontal-scrolling-snapping slideshows, using a list of images. O
 
 ```
 ...
-<img src="triceratops.png">
-<img src="allosaurus.png">
-<img src="paleontology.png">
+<!-- CHANGE THE LIST OF img TAGS BELOW TO MATCH THE NAMES AND NUMBER OF IMAGES IN YOUR FOLDER. -->
+    <div class="scroll-container">
+        <img src="allosaurus.png">
+        <img src="triceratops.png">
+    </div>
 ...
 ```
