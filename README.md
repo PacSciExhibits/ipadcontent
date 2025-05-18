@@ -4,7 +4,7 @@ Hey y'all,
 
 I'll document my process in this README for posterity.
 
-We can lock down an iPad for a slideshow with an app that displays a single website. It seems inconvenient to need to build a webpage to show a slideshow, but it's actually kind of nice to have the flexibility that HTML affords. In the future, we could build something more interactive, or show an existing website (from NASA or wherever).
+We can lock down an iPad for a slideshow with an app that displays a single website. It seems inconvenient to need to build a webpage to show a slideshow, but it's actually kind of nice to have the flexibility that websites afford. In the future, we could build something more interactive, or show an existing website (from NASA or wherever).
 
 Here, when making our own webpages, we're using GitHub Pages, a free web hosting service from GitHub. This repository has been set up so we have the link to any file in the above directory. HTML files will show up in the kiosk app as web pages.
 
