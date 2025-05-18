@@ -26,3 +26,5 @@ We're making horizontal-scrolling-snapping slideshows, using a list of images. O
     </div>
 ...
 ```
+
+Note that you shouldn't change the `div` tag, or anything other than the `img` tags.
