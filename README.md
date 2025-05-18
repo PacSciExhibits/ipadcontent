@@ -1,5 +1,7 @@
 # Content on iPads
 
+[https://github.com/PacSciExhibits/ipadcontent](https://github.com/PacSciExhibits/ipadcontent)
+
 Hey y'all,
 
 I'll document my process in this README for posterity.
